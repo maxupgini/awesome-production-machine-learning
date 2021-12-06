@@ -496,5 +496,5 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 
 
 ## Data search engines
-* [Google Dataset Search](https://datasetsearch.research.google.com/) - a search engine from Google that helps researchers locate online data that is freely available for use. The company launched the service on September 5, 2018, and stated that the product was targeted at scientists and data journalists. The service was out of beta as of January 23rd, 2020.
-* [Upgini](https://github.com/upgini/upgini/blob/main/README.md#upgini--dataset-search-library-for-your-machine-learning-pipelines) - python library for an automated useful dataset search to boost supervised ML tasks. It enriches your dataset with intelligently crafted features from a broad range of curated data sources, including open and commercial datasets. The search is conducted for any combination of public IDs contained in your tabular dataset: IP, date, etc. Only features that could improve the prediction power of your ML model are returned.
+* [Google Dataset Search](https://datasetsearch.research.google.com/) - a search engine from Google that helps researchers locate online data that is freely available for use. 
+* [Upgini](https://github.com/upgini/upgini/blob/main/README.md#upgini--dataset-search-library-for-your-machine-learning-pipelines) - python library for an automated useful dataset search to boost supervised ML tasks.
